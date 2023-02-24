@@ -2,7 +2,7 @@
 
 ## Word Frequencies
 
-Write a function called `wordFrequencies` that takes in a string as an argument, and returns an object w each word as a `key`, and the number of times it appears in the string a the `value`
+Write a function called `wordFrequencies` that takes in a string as an argument, and returns an object w each word as a `key`, and the number of times it appears in the string as the `value`
 
 Example:
 ```js
@@ -12,7 +12,7 @@ wordFrequencies('this is a test test test a') // output => { this: 1, is: 1, a: 
 
 ## Find Highest Word
 
-Write a function called `highestWord` that take a string as an argument, and returns an object w the word that appears the most as the key, and the frequency of occurences as the value. Hint: Use the `wordFrequencies` function inside this function.
+Write a function called `highestWord` that takes a string as an argument, and returns an object w the word that appears the most as the key, and the frequency of occurences as the value. Hint: Use the `wordFrequencies` function inside this function.
 
 Example:
 ```js
