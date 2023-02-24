@@ -1,3 +1,5 @@
+# Code Challenge
+
 ## Word Frequencies
 
 Write a function called `wordFrequencies` that takes in a string as an argument, and returns an object w each word as a `key`, and the number of times it appears in the string a the `value`
